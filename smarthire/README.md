@@ -8,7 +8,7 @@ It predicts a candidate's job category (Supervised Learning), recommends top job
 
 1. **Clone the repository:**
    ```
-   git clone [https://github.com/YourUsername/SmartHire.git](https://github.com/YourUsername/SmartHire.git)
+   git clone [[https://github.com/DhyaneshChetti/Dhyanesh_may_training.git]]
    cd SmartHire
    ```
 
